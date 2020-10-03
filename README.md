@@ -1,3 +1,3 @@
 # Movie App 2020
 
-React JS Fundamental Course
+Simple app that shows the movie infomation using third party api
